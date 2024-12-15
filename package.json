@@ -1,0 +1,14 @@
+{
+    "name": "jetphotos-api-unofficial",
+    "version": "1.0.0",
+    "description": "API to search JetPhotos based on aircraft details",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "axios": "^1.7.9",
+        "cheerio": "^1.0.0",
+        "express": "^4.21.2"
+    }
+}
